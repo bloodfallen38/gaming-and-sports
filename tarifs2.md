@@ -9,7 +9,7 @@ in_menu: true
 Lundi à Mercredi: 10h30 20h  
 Jeudi à Samedi: 10h30 22h30  
 Dimanche: 13h 17h30
-  
+                                                ![Texte décrivant l'image]({% link images/pexels-ron-lach-7849515.jpg %})
 ## Tarrif  
 1/2 h =                          4.00 €  
 1 h = 5.00 €  
