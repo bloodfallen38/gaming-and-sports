@@ -3,8 +3,7 @@ title: "Tarifs2"
 order: 5
 in_menu: true
 ---
-# GAMING-----------------------------------------------------------------------------------------------------------------------------    [Texte décrivant l'image]({% link images/1699301263997.jpg %}) 
-## Horraire 
+# GAMING 
   
 Lundi à Mercredi: 10h30 / 20h  
 Jeudi à Samedi: 10h30 / 22h30  
