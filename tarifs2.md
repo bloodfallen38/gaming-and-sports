@@ -3,7 +3,7 @@ title: "Tarifs2"
 order: 5
 in_menu: true
 ---
-# GAMING----------------------------![Texte décrivant l'image]({% link images/1699301263997.jpg %})      
+# GAMING---------------------------- ({% link images/1699301263997.jpg %})    
 ## Horraire 
   
 Lundi à Mercredi: 10h30 / 20h  
