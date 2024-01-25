@@ -16,8 +16,7 @@ Dimanche: 13h 17h30
 3 h =                           10.00 €  
 5 h =                           15.00 €  
 Journée Illimitée =    20.00 € 
- ![Texte décrivant l'image]({% link images/pexels-ron-lach-7849515.jpg %})
-
+ 
 # Sport  
 ## Horraire   
 Lundi à Mercredi: 10h30 20h  
