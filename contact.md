@@ -3,9 +3,6 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : 
--Mail:[gamingandsports@gmail.com]
+Pour nous contacter :[gamingandsports@gmail.com]
 (mailto:gamingandsports@gmail.com)
-`-Tel:0625487595 
+` 
