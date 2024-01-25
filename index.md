@@ -1,6 +1,6 @@
 ---
 title: "GAMING AND SPORTS"
-order: 0
+order: 1
 in_menu: true
 ---
 # Bienvenue à GAMING AND SPORTS - Votre Destination Ultime pour le Divertissement et le Sport
