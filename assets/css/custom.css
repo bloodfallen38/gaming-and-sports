@@ -42,6 +42,6 @@ h1 {
     --couleur-primaire :   background: #33CCCC; /* Fallback */
   animation: color 9s infinite linear;
  text-align: center;
- padding: 2em;
+ padding: 1em;
 }
 
