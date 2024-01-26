@@ -26,7 +26,7 @@ h1 {
   color: white;
 }
 
-root {
+:root {
   background: #33CCCC; /* Fallback */
   animation: color 9s infinite linear;
   text-align: center;
