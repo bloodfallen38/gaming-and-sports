@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
 h3 {
   color: white;
@@ -5,7 +6,7 @@ h3 {
 
 h2 {
   color: black
-  font-family: 'Kavoon', serif;
+  font-family: 'Honk', system-ui;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
