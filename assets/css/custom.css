@@ -43,6 +43,7 @@ h1 {
  text-align: center;
  padding: 2em;
 }
+
 @keyframes tonext {
   75% {
     left: 0;
