@@ -9,6 +9,7 @@ in_menu: true
 ## Salle GAMING
 
 Game&sports te propose des Gaming Room haut de gamme de 5 à 10 personnes, composées de cockpits de Gaming immersifs. Entièrement dédiées à l’eSport, vous pourrez vous affronter entre ami(e)s sur tous les best-sellers de l’eSport (Fortnite, Overwatch, LOL, Counter, etc....). Des PC  surpuissants sont mis à ta disposition avec tous les accessoires afin de jouer et streamer (Casques, manettes, webcams, souris et claviers
+![Texte décrivant l'image]({% link images/pexels-rdne-stock-project-7915575.jpg %})
 
 ## Salle de SPORT
 
