@@ -4,7 +4,6 @@ h3 {
 }
 
 h2 {
-  font-size: 2.5em;
   color: black
   font-family: 'Workbench', sans-serif;
 }
@@ -33,7 +32,7 @@ body {
 }
 h1 {
   text-align: center;
-  font-family: 'Kavoon', serif;
+  font-family: ''Workbench', serif;
   font-size: 2.5em;
   color: red;
 }
@@ -42,6 +41,6 @@ h1 {
     --couleur-primaire :   background: #33CCCC; /* Fallback */
   animation: color 9s infinite linear;
  text-align: center;
- padding: 1em;
+ padding: 2em;
 }
 
