@@ -26,7 +26,8 @@ in_menu: true
 
             <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
             <img class="slide-img" src="images/pexels-rdne-stock-project-7915493.jpg">
-<input class="slide-input" id="slide-dot-4" type="radio" name="slides" checked>
+
+<input class="slide-input" id="slide-dot-4" type="radio" name="slides">
             <img class="slide-img" src="images/pexels-pixabay-260447.jpg">
 
             <input class="slide-input" id="slide-dot-5" type="radio" name="slides">
