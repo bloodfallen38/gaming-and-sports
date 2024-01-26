@@ -3,6 +3,7 @@ h3 {
   color: white;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
 
 @keyframes color {
   0%   { background: #33CCCC; }
