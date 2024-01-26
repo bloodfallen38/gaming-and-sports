@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 h3 {
   color: white;
@@ -27,7 +27,7 @@ body {
   animation: color 9s infinite linear;
   text-align: center;
   padding: 2em;
-  font-family: 'Kavoon', serif;
+  font-family: 'Press Start 2P', system-ui;
 }
 
 h1 {
