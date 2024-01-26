@@ -1,5 +1,5 @@
 ---
-title: "test"
+title: "Gallerie"
 order: 7
 in_menu: true
 ---
