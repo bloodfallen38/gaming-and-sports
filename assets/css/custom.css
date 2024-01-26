@@ -4,7 +4,8 @@ h3 {
 }
 
 h2 {
-  font-family: 'Rubik Doodle Shadow', serif;
+  color: blue
+  font-family: 'Rubik Doodle Shadow', system-ui;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
