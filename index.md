@@ -3,6 +3,10 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+</style>
+
 ## Bienvenue à GAMING & SPORTS   
 # _Votre Destination Ultime pour le Divertissement et le Sport_ 
 
