@@ -1,6 +1,6 @@
 ---
 title: "Tarifs"
-order: 3
+order: 4
 in_menu: true
 ---
 ![Texte décrivant l'image]({% link images/3.png %})

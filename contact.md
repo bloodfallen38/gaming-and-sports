@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 4
+order: 6
 in_menu: true
 ---
 Pour nous contacter :  

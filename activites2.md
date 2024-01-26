@@ -1,6 +1,6 @@
 ---
 title: "Activités2"
-order: 6
+order: 3
 in_menu: true
 ---
 ## 2 salle 2 ambiance
