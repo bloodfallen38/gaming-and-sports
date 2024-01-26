@@ -3,7 +3,6 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
 ## Bienvenue à GAMING & SPORTS   
 # _Votre Destination Ultime pour le Divertissement et le Sport_ 
 
