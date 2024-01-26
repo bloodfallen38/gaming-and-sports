@@ -5,15 +5,10 @@ h3 {
 
 h2 {
   color: black
-  font-family: 'Workbench', sans-serif;
+  font-family: 'Kavoon', sans-serif;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Workbench&display=swap');
-
-
-
 
 @keyframes color {
   0%   { background: #33CCCC; }
