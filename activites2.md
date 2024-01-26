@@ -13,4 +13,5 @@ Game&sports te propose des Gaming Room haut de gamme de 5 à 10 personnes, compo
 
 ## Salle de SPORT
 
- Game&sports vous accueil sur plus de 1000m² climatisés : Musculation, Cardio-training, 2 salles de cours collectifs avec coach, 2 salles de Cours vidéo sur écran géant, 2 courts de Squash, Foot 2x2, Vestiaires Casiers et Douches individuelles. Nos coachs sont à votre disposition pour effectuer votre programme personnalisé selon votre objectif (perte de poids, tonifier, prise de masse...), et vous expliquer le fonctionnement des appareils. 
+ Game&sports vous accueil sur plus de 1000m² climatisés : Musculation, Cardio-training, 2 salles de cours collectifs avec coach, 2 salles de Cours vidéo sur écran géant, 2 courts de Squash, Foot 2x2, Vestiaires Casiers et Douches individuelles. Nos coachs sont à votre disposition pour effectuer votre programme personnalisé selon votre objectif (perte de poids, tonifier, prise de masse...), et vous expliquer le fonctionnement des appareils.
+![Texte décrivant l'image]({% link images/pexels-max-rahubovskiy-7031706.jpg %}) 
