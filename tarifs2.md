@@ -4,7 +4,7 @@ order: 5
 in_menu: true
 ---
 # GAMING 
-  
+## Horraire  
 Lundi à Mercredi: 10h30 / 20h  
 Jeudi à Samedi: 10h30 / 22h30  
 Dimanche: 13h / 17h30
