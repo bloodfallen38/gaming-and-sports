@@ -27,6 +27,7 @@ h1 {
 }
 
 :root {
-    --couleur-primaire : black;
+    --couleur-primaire :   background: #33CCCC; /* Fallback */
+  animation: color 9s infinite linear;
 }
 
