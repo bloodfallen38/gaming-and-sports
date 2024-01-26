@@ -50,7 +50,7 @@ in_menu: true
   <aside class="carousel__navigation">
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
-        <a href="#carousel__slide1"
+        <a href="images/pexels-rdne-stock-project-7915575.jpg"
            class="carousel__navigation-button">Go to slide 1</a>
       </li>
       <li class="carousel__navigation-item">
