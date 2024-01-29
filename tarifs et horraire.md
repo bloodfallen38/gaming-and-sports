@@ -1,5 +1,5 @@
 ---
-title: "Tarifs"
+title: "Tarifs et Horraire"
 order: 4
 in_menu: true
 ---
