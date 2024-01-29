@@ -1,5 +1,5 @@
 ---
-title: "Tarifs2"
+title: "Tarifs2 et Horraire2"
 order: 5
 in_menu: true
 ---
